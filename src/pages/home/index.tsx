@@ -58,8 +58,9 @@ export const Home = (): JSX.Element => {
               projects
             </Text>
             <Text type="body1" color="grey2">
-              Discover here in this environment, created especially for you, all
-              my projects and technologies
+             I'm a fullstack development student, currently on the last backend module.
+             I like to learn new things, because I believe that all knowledge can be useful.
+             I work well in a team, I can communicate clearly, and I handle stress situations and deadlines well.
             </Text>
             <HeaderButtonsArea>
               <Button as="a" type="primary" href="#projects">
